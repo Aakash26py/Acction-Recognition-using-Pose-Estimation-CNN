@@ -40,7 +40,7 @@ the frames one by one using the model.
 </li>
 </ol>
 <h4>Dataset Description</h4>
-<a href="https://datasets.bifrost.ai/info/412" target="_blank"><h6>Dataset: Frames Labeled in Cinema (FLIC)</h6></a>
+<h6><a href="https://datasets.bifrost.ai/info/412" target="_blank">Dataset: Frames Labeled in Cinema (FLIC)</a></h6>
 <p>
 The dataset is a collection of 5003 image from popular Hollywood movies. The images were
 obtained by running a state-of-the-art person detector on every tenth frame of 30 movies.
